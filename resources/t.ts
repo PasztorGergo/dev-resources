@@ -32,6 +32,13 @@ export const resources: Resource[] = [
         icon: 'https://tailwindcss.com/favicon-32x32.png',
     },
     {
+        name: 'Tailwind CSS Cheat Sheet - Flowbite',
+        categories: ['Cheatsheet'],
+        description: 'View and search for all the class names from Tailwind CSS, the world\'s most popular utility-first CSS framework.',
+        url: 'https://flowbite.com/tools/tailwind-cheat-sheet/',
+        icon: 'https://flowbite.com/tools/tailwind-cheat-sheet/favicon-32x32.png',
+    },
+    {
         name: 'Tailwind Toolbox',
         categories: ['Template'],
         description:
